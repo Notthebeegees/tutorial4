@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="771286b1-a815-4c93-8ca0-b5e8f2240bc2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.CalcTest.executor": "Run",
+    "JUnit.CalcTest.executor": "Coverage",
     "JUnit.CalcTest.testAddition.executor": "Run",
     "JUnit.CalcTest.testSubtraction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -34,7 +38,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CalcTest">
+  <component name="RunManager" selected="JUnit.CalcTest.testSubtraction">
     <configuration name="CalcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tutorail4" />
       <extension name="coverage">
@@ -84,9 +88,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalcTest.testSubtraction" />
         <item itemvalue="JUnit.CalcTest" />
         <item itemvalue="JUnit.CalcTest.testAddition" />
-        <item itemvalue="JUnit.CalcTest.testSubtraction" />
       </list>
     </recent_temporary>
   </component>
